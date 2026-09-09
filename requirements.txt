@@ -1,0 +1,15 @@
+numpy
+scipy
+Pillow
+PyYAML
+tqdm
+matplotlib
+pyquaternion
+tensorboard
+timm
+mmengine==0.10.7
+mmcv==2.1.0
+mmsegmentation==1.0.0
+mmdet==3.0.0
+mmdet3d==1.1.1
+spconv-cu118==2.3.8
